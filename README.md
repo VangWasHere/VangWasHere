@@ -4,7 +4,7 @@
 
 ![Profile Views](https://count.getloli.com/get/@AwaaaFrens-github-readme?theme=rule34)
 
-# Hey there, I'm Vivian Silvia! 👋✨
+# Hey there, I'm Vang! 👋✨
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student+%F0%9F%87%AE%F0%9F%87%A9;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
