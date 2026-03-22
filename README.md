@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Views](https://count.getloli.com/get/@AwaaaFrens-github-readme?theme=rule34)
+![Profile Views](https://count.getloli.com/get/@VangWasHere-github-readme?theme=rule34)
 
 # Hey there, I'm Vang! 👋✨
 
@@ -23,7 +23,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ```javascript
-const AwaaaFrens = {
+const VangWasHere = {
     pronouns: "she" | "her",
     location: "Indonesia 🇮🇩",
     currentFocus: ["Laravel", "React", "Cloud Architecture"],
@@ -84,10 +84,10 @@ const AwaaaFrens = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AwaaaFrens&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaaaFrens&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VangWasHere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VangWasHere&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AwaaaFrens&theme=github-compact&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true&radius=16" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=VangWasHere&theme=github-compact&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true&radius=16" />
 
 </div>
 
@@ -97,9 +97,9 @@ const AwaaaFrens = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AwaaaFrens&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=VangWasHere&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" />
 
-<img src="https://streak-stats.demolab.com?user=AwaaaFrens&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+<img src="https://streak-stats.demolab.com?user=VangWasHere&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 
 </div>
 
@@ -158,7 +158,7 @@ graph TD
 ## 🤝 Let's Be Friends!
 
 <p>
-  <a href="https://github.com/AwaaaFrens">
+  <a href="https://github.com/VangWasHere">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://discord.gg/GDdf6QSW7H">
